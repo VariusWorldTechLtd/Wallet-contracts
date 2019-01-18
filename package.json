@@ -9,7 +9,7 @@
   },
   "scripts": {
     "test": "mocha",
-    "compile": "truffle compile"
+    "build": "truffle compile"
   },
   "author": "",
   "dependencies": {
